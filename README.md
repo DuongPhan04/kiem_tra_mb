@@ -13,5 +13,5 @@ Link git repo. Có file README.md ghi rõ thông tin và ảnh chụp kết qu�
 Ảnh chụp màn hình kết quả từng screen.
 - Hoàn thiện vàn nộp bài đúng hạn.
 
-![Screenshot](./assets/sc.jpg)
-![Screenshot](./assets/sc1.jpg)
+![Screenshot](./assets/a1.jpg)
+![Screenshot](./assets/a2.jpg)
